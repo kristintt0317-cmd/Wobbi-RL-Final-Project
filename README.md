@@ -91,9 +91,6 @@ FINAL_PROJECT/
 │   └── final/
 │       └── WobbiGait_SpeedFinal02.onnx
 │
-├── Report/
-│   └── Wobbi_RL_Report.pdf
-│
 ├── Results/
 │   ├── logs/
 │   │   └── logs.txt
