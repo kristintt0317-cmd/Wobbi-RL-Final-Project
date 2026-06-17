@@ -4,7 +4,7 @@
 
 This project explores reinforcement learning for a character-inspired bipedal robot named **Wobbi**. The aim was to train a simplified legged robot in Unity ML-Agents and connect its learned movement with a creative output through footprint traces and movement documentation.
 
-The original idea was to make Wobbi follow a designed route and leave footprints that could form a visible pattern. During development, I realised that even basic bipedal movement was already a complex reinforcement learning problem. The final direction therefore became more focused: training Wobbi to stay upright, move toward simple waypoint targets, and use its imperfect forward shuffling movement as part of the robot's character.
+The original idea was to make Wobbi follow a designed route and leave footprints that could form a visible pattern. During development, I realised that even basic bipedal movement was already a complex reinforcement learning problem. The final direction therefore became more focused: training Wobbi to stay upright, move toward simple waypoint targets, and use footprint traces as a visible record of the learned movement.
 
 The final result is not a perfect human-like walking gait. Instead, Wobbi produces a limited but usable forward shuffling movement. It can remain upright for longer periods and move slowly toward simple waypoint targets. Its main limitations are weak turning ability and unclear left-right foot alternation. These limitations are documented as part of the project process and creative reflection.
 
