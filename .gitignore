@@ -1,0 +1,48 @@
+# Unity generated folders
+Unity_Project/Library/
+Unity_Project/Temp/
+Unity_Project/Obj/
+Unity_Project/Build/
+Unity_Project/Builds/
+Unity_Project/Logs/
+Unity_Project/UserSettings/
+Unity_Project/MemoryCaptures/
+
+# Visual Studio / Rider / VS Code generated files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / ML-Agents temporary files
+__pycache__/
+*.pyc
+runs/
+
+# Large training checkpoints, keep only final exported ONNX unless needed
+*.pt
+*.ckpt
+*.onnx.tmp
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
